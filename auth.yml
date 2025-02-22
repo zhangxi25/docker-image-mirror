@@ -1,3 +1,6 @@
+crpi-6r47xrxntld6fmkq.cn-shenzhen.personal.cr.aliyuncs.com:
+  username: $TARGET_REGISTRY_USER
+  password: $TARGET_REGISTRY_PASSWORD
 registry.cn-beijing.aliyuncs.com:
   username: $TARGET_REGISTRY_USER
   password: $TARGET_REGISTRY_PASSWORD
